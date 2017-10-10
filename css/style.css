@@ -1,0 +1,83 @@
+*{margin:0;}
+body{font-family:Helvetica,Tahoma,Arial;color:#252525;font-size:13px;line-height:20px;background:#F8F8F8}
+#wrapper{margin:0 auto;padding:0;width:960px}
+a,a:visited{color:#464646;text-decoration:underline;outline:none}
+a:hover{color:#252525;text-decoration:none}
+img{border:0}
+h1{color:#464646;padding:0;margin:0 0 10px 0;font:24px normal;line-height:24px;font-family:Helvetica,Tahoma,Arial}
+h2{color:#464646;padding:0;margin:0 0 10px 0;font:20px normal;line-height:20px;font-family:Helvetica,Tahoma,Arial}
+h3{color:#464646;padding:0;margin:0 0 10px 0;font:18px normal;line-height:18px;font-family:Helvetica,Tahoma,Arial}
+h4{color:#464646;padding:0;margin:0 0 10px 0;font:16px normal;line-height:16px;font-family:Helvetica,Tahoma,Arial}
+h5{color:#464646;padding:0;margin:0 0 10px 0;font:14px normal;line-height:14px;font-family:Helvetica,Tahoma,Arial}
+h6{color:#464646;padding:0;margin:0 0 10px 0;font:12px normal;line-height:12px;font-family:Helvetica,Tahoma,Arial}
+.headerwide {}
+.headerwrap{position:relative;margin:0 auto;padding:0;width:940px}
+.headerwrap {height: 70px;}
+.headerwrap h1 a{font-size: 24px;font-weight: bold;text-transform: uppercase;line-height: 50px;width: auto;text-decoration: none;}
+.headerwrap h2{font-size: 12px;font-weight: bold; width: auto;text-decoration: none;margin-top:-25px;}
+.headerwrap h2 a{text-decoration:none;}
+.navigationwide{float:left;margin:0;padding:0;width:100%;background:#c1c1c1 repeat-x top center}
+.navigationwrap{position:relative;margin:0 auto;padding:0;width:960px}
+.navigationwrap ul{padding:0;margin:0;list-style:none}
+.navigationwrap ul li{float:left;position:relative}
+.navigationwrap ul li a{font-size:12px;text-transform:uppercase;line-height:36px;color:#FFF;font-weight:bold;background:#c1c1c1;display:block;padding:0 10px;margin:0;text-decoration:none}
+.navigationwrap ul li a:hover{color:#FFF;background:#A5A5A5}
+.itemwrap{float:left;margin:10px;padding:20px;width:920px;background:#FFFFFF;border:1px solid #c1c1c1}
+.itemwrap h1{color:#464646;padding:0;margin:0 0 10px 0;font:24px normal;line-height:24px;font-family:Tahoma,Arial}
+.itemwrap h1 a,.itemwrap h1 a:visited{color:#464646;text-decoration:none}
+.itemwrap h1 a:hover{color:#464646;text-decoration:underline}
+.itemwrap h2{color:#464646;padding:0;margin:0 0 10px 0;font:24px normal;line-height:24px;font-family:Tahoma,Arial}
+.itemwrap h2 a,.itemwrap h2 a:visited{color:#464646;text-decoration:none}
+.itemwrap h2 a:hover{color:#464646;text-decoration:underline}
+.itemwrap p{padding:0 0 10px 0;margin:0;}
+.itemwrap p.paper{font-size:10px;}
+.itemwrap img{overflow:hidden;max-width:100%;}
+.image{border:1px solid #c1c1c1;float:left;margin:0 10px 10px 0}
+.itemwrap ul,.itemwrap ol{margin:10px 10px 10px 30px}
+.itemwrap ul{list-style-type:disc}
+.itemwrap ol{list-style-type:decimal}
+form{margin:0;padding:0}
+.text_input{width:208px;height:16px;padding:10px;margin:0 10px 0 0;background:#F8F8F8;border:1px solid #c1c1c1;color:#464646;float:left}
+.text_submit{width:80px;padding:10px;margin:0;background:#464646;border:0;color:#FFF;font-weight:bold;float:right}
+.footerwide{float:left;margin:0;padding:0;width:100%;background:#c1c1c1}
+.footerwrap{position:relative;margin:0 auto;padding:0;width:940px;color:#FFF}
+.footerwrap a,.footerwrap a:visited{color:#FFF;text-decoration:none}
+.footerwrap a:hover{color:#FFF;text-decoration:underline}
+.footerleft{float:left;margin:0;padding:10px;width:400px}
+.footerright{float:left;margin:0;padding:10px;width:500px;text-align:right}
+.even{background:#fff}
+.odd{background:#f6f6f6}
+.photo img{width:32px;height:32px;float:right;border:5px solid #000;}
+div .headertop{
+	width:100%;
+	border:0px;
+	border-bottom: 1px solid #e1e1e1;
+	margin-bottom: 5px;
+}
+div .headertop div{
+	position: relative;
+	margin: 0px auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+	padding: 0px;
+	width: 940px;
+}
+div .above_top_bar{
+	color:#555555;
+	border-color:#e1e1e1;
+	line-height: 44px;
+	border-left: 1px solid #e1e1e1;
+	border-right: 1px solid #e1e1e1;
+}
+div .above_top_bar span{
+	display: inline-block;
+	background: #fefefe;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-right: 1px solid #e1e1e1;
+}
+div .above_top_bar i{
+	margin-right:10px;
+}
